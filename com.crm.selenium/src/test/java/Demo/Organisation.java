@@ -7,7 +7,7 @@ public class Organisation {
 	public void createOrg() {
 		System.out.println("created");
 		System.out.println("Edited");
-		System.out.println("hii");
+		
 		
 	}
 
